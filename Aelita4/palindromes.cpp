@@ -1,15 +1,3 @@
-// Write a program that checks if the string is a palindrome (reads the same forward and backward), returns true or false.
-
-// Example:
-// Input: "racecar"
-// Output: true
-// Input: "hello"
-// Output: false
-
-// Input: string with a word
-
-// Output: boolean value (true or false)
-
 #include <iostream>
 
 using namespace std;

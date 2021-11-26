@@ -1,8 +1,3 @@
-// Find the notation of given number  in the base from 2 to 10 and 16
-
-// Input: number as integer and base as integer
-// Output: number in given base written as string
-
 #include <iostream>
 #include <sstream>
 

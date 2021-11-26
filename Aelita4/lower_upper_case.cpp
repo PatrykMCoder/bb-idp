@@ -1,9 +1,3 @@
-// Write a program that converts passed character to the opposite case.
-
-// Input: single character
-
-// Output: char with opposite case
-
 #include <iostream>
 
 using namespace std;

@@ -1,9 +1,3 @@
-// Find the value of a number written in positional system with base p (2-10) using Horner's algorithm
-
-// Input: base of number and number as a string
-
-// Output: Decimal value of the number as an integer
-
 #include <iostream>
 
 using namespace std;

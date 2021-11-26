@@ -1,9 +1,3 @@
-// Write a program that resolves quadratic equation ax^2 + bx + c = 0 where a, b and c are given as input.
-
-// Input: three integers a, b and c as in quadratic equation
-
-// Output: roots of the quadratic equation
-
 #include <iostream>
 #include <cmath>
 

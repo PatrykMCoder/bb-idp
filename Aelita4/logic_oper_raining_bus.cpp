@@ -1,13 +1,3 @@
-// Using logic operators ! (negation), && (and) write a program which, depending on fullfilment of the conditions, prints the following:
-// If it is raining and there is a bus, print "Take an umbrella", "You will get to the university"
-// If it is raining and there is no bus, print "You will not get to the university"
-// If it is not raining and there is a bus, print "You will get to the university", "Have a nice day and nice weather"
-// The user provides the information about the weather and the presence of a bus.
-
-// Input: whether it is raining and whether there is a bus
-
-// Output: the result of the logic operations
-
 #include <iostream>
 
 using namespace std;

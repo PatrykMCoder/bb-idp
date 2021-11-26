@@ -1,9 +1,3 @@
-// Write a program that determines the number of roots of a quadratic equation ax^2 + bx + c = 0 where a, b and c are given as input.
-
-// Input: three integers a, b and c as in quadratic equation
-
-// Output: the number of roots of the quadratic equation
-
 #include <iostream>
 
 using namespace std;

@@ -1,8 +1,3 @@
-// Write a program to order three numbers x, y and z in ascending order.
-
-// Input: three numbers
-// Output: three numbers in ascending order
-
 #include <iostream>
 
 using namespace std;

@@ -1,26 +1,3 @@
-// Write a program that will sort a list of jewelry with the following rules:
-// sort by length of the string ascending
-// if two jewelry are the same length, sort lexicographically
-
-// Example:
-// Input:
-// 5
-// aabaa
-// daz
-// ccc
-// dba
-// abzzbaz
-// Output: 
-// ccc
-// daz
-// dba
-// aabaa
-// abzzbaz
-
-// Input: number of string to sort, followed by the strings
-
-// Output: the sorted strings
-
 #include <iostream>
 
 using namespace std;
