@@ -5,13 +5,17 @@ using namespace std;
 char charToLowerCase(char);
 
 int main() {
-    cout << "Input word, confirm with return key and break using Ctrl+Z: ";
-
 	bool isOk = true;
-	char a, b, tmp;
-	while (cin >> tmp) {
-		a = charToLowerCase(tmp); // ignore case
-		b = charToLowerCase(tmp);
+	char a, b;
+
+	string s;
+
+    cout << "Input word: ";
+	getline(cin, s);
+
+	for (int i = 0; i < s.length() / 2; i++) {
+		a = charToLowerCase(s[i]); // ignore case
+		b = charToLowerCase(s[s.length() - i - 1]); // ignore case
 		if (a != b) isOk = false;
 	}
 
